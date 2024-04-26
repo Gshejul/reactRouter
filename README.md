@@ -1,5 +1,5 @@
 # React + Vite
-
+In this repo I'm added 2 diffrent type of react routing 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
